@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "23b1ec48-a172-453c-987d-bbff78e3419c",
+		"name": "subscription-billing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34804542"
+	},
+	"item": [
+		{
+			"name": "usage",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "current-usage",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "billing-summary",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
